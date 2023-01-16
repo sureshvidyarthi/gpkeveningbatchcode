@@ -68,9 +68,94 @@ span {
     border: 2px solid purple;
 } */
 
-div {
+/* div {
     height: 100px;
     width: 50%;
     border: 2px solid red;
     overflow: auto;
+} */
+/* h1 {
+    color: red;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: red;
+}
+
+h4 {
+    color: red;
+} */
+
+/* class and id */
+/* .class1 {
+    color: yellow;
+    background-color: black;
+}
+
+.class2 {
+    color: white;
+    background-color: darkred;
+}
+
+#id1 {
+    color: aqua;
+}
+
+#id2 {
+    color: black;
+} */
+
+/* table */
+
+h2 {
+    color: white;
+    background-color: purple;
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 2px solid purple;
+    color: purple;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    text-align: center;
+}
+
+th,
+td {
+    padding: 4px;
+}
+
+ul {
+    background-color: purple;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+    margin: 6px;
+}
+
+li a:hover {
+    color: black;
 }
