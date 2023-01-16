@@ -1,0 +1,76 @@
+/* h3 {
+    color: yellow;
+    background-color: red;
+    text-align: center;
+} */
+
+/* color and background color */
+/* h1 {
+    color: purple;
+    background-color: yellow;
+} */
+
+/* body {
+    background-color: red;
+} */
+
+/* background image */
+/* body {
+    background-image: url("image.PNG");
+    background-repeat: no-repeat;
+} */
+
+/* border */
+/* h2 {
+    color: blue;
+    border-width: 10px;
+    border-style: solid;
+    border-color: red;
+} */
+
+
+/* margin and padding */
+/* h2 {
+    color: green;
+    border: 5px solid red;
+    border-radius: 10px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: 160px;
+    padding: 30px;
+} */
+
+/* h1 {
+    color: blue;
+    text-decoration: underline overline line-through;
+    text-shadow: 4px 2px 4px;
+} */
+
+
+/* Hover effect */
+/* a {
+    border: 2px solid blue;
+    text-decoration: none;
+    padding: 4px;
+}
+
+a:hover {
+    background-color: blue;
+    color: white;
+} */
+
+/* block and inline */
+/* div {
+    border: 2px solid red;
+}
+
+span {
+    border: 2px solid purple;
+} */
+
+div {
+    height: 100px;
+    width: 50%;
+    border: 2px solid red;
+    overflow: auto;
+}
